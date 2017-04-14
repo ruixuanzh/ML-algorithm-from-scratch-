@@ -1,3 +1,7 @@
+# Author: Ruixuan Zhang
+# linkedin: https://www.linkedin.com/in/ruixuan-emily-zhang/
+
+
 import numpy as np
 import argparse
 import math
